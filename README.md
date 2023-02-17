@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts to clone and run this react-quiz applicatio.
+## Available Scripts to clone and run this react-quiz application.
 
 In the project directory, you can run:
 
 ## `git clone <Respo_link>`
 
-## `cd React-Quiz-`
+## `cd <Repo_name>`
 
 ## `npm install`
 It will install all the depedencies in your local application
