@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h4 {
+  font-size: 4vw;
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 5vh;
+  color: cadetblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  background-color: rgb(255, 184, 184);
+  border: 1px solid rgb(255, 255, 255);
+  padding: 5vh;
+  width: 70vh;
+  min-height: 70vh;
+  margin: 3vh;
+  text-align: center;
+  /* border-radius: 50%; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: start;
+}
+
+.navigation-Buttons {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+}
+
+Button {
+  width: 34vh;
+}
+
+.help-button {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 20px; */
+}
+
+.hint {
+  width: auto;
+  margin-right: 35vh;
+}
+
+.answer {
+  width: auto;
+}
+
+.Popup {
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+
+
+/* Prev and Next button */
+
+.Prev-button {
+  border: none;
+  background-color: rgb(74, 134, 74);
+  font-size: 2rem;
+  color: rgb(203, 255, 199);
+  height: 25vh;
+  width: 25vh;
+}
+
+.Next-button {
+  border: none;
+  background-color: rgb(74, 134, 74);
+  font-size: 2rem;
+  color: rgb(203, 255, 199);
+  height: 25vh;
+  width: 25vh;
+}
+
+.answer {
+  text-align: center;
+  width: 40vh;
+  color: white;
+  font-size: 13px;
+  
+}
